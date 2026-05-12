@@ -4,8 +4,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashmoon32&theme=tokyonight)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashmoon32)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ashmoon32&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmoon32)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashmoon32&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashmoon32&layout=compact&theme=tokyonight)
